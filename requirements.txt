@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+nltk==3.8.1
+requests==2.31.0
+aiohttp==3.9.5
+numpy==1.24.3
+scikit-learn==1.4.2
+python-dotenv==1.0.0
+typing-extensions==4.6.0  # Updated to a version that resolves conflicts
+fastapi==0.111.0
+pydantic==1.10.7  # Updated to resolve conflicts
+spacy==3.4.0  # Ensuring compatibility with other packages
+typer==0.4.2  # Ensuring compatibility with Spacy
+sqlalchemy==2.0.30
+torch==2.3.0
