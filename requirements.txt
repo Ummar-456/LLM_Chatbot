@@ -6,9 +6,6 @@ numpy
 scikit-learn
 python-dotenv
 typing-extensions
-fastapi
-pydantic
-spacy 
 typer
 sqlalchemy
 torch
